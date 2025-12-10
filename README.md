@@ -20,6 +20,3 @@ This is a simple perfume website UI built using **HTML and CSS**.
 ##  Status
 I am new to GitHub and front-end development.  
 This project is part of my learning journey.
-
-## 📷 Preview
-(Add a screenshot here later)
